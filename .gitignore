@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.sqlite3
+*.db
+*.log
+.env
+
+# MySQL dumps
+*.sql
+
+# Visual Studio Code
+.vscode/
+
+# Dependencias
+venv/
+.venv/
+env/
+.env/
+.Python
+pip-log.txt
+pip-delete-this-directory.txt
